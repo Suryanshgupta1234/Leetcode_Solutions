@@ -1,4 +1,4 @@
-# Suryansh_Leetcode_129# LeetCode Solutions 🚀
+# LeetCode Solutions 🚀
 
 This repository contains my solutions to various **LeetCode problems**, implemented mainly for **Data Structures & Algorithms (DSA)** practice and interview preparation.
 
